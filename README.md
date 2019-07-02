@@ -1,5 +1,7 @@
 # spring-rest
 
+this is a test
+
 my new project
 
 This project is a seed for creating [Spring Boot][boot] [REST][rest]
